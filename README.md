@@ -152,7 +152,7 @@ Attribute | Usage | Level
   | *type:* array with values of the same type as the property |
 
 ## Future work
-1. Implement the plugin for angularJS 2.x. 
+1.~~Implement the plugin for angularJS 2.x.~~ [see here](https://github.com/kfmaurice/sort-2)
 
 Wanna help? Feel free to contribute or send me an email :smile:
 
